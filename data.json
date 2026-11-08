@@ -1,0 +1,52 @@
+{
+  "1568760119750041681": {
+    "welcome": 1568766544681635942,
+    "goodbye": 1568766546707349575,
+    "automod": {
+      "spam": true,
+      "invites": true,
+      "badwords": true,
+      "mentions": true,
+      "words": [
+        "gay"
+      ]
+    },
+    "logs": 1568770705640919093,
+    "verify_role": 1568766341228273784,
+    "warns": {},
+    "public_logs": 1568776049766957246,
+    "announcements": 1568760120937283780,
+    "scrim_schedule_channel": 1568780042006171790,
+    "drills_channel": 1568780049807581214,
+    "drills_ss_channel": 1568780052668219583,
+    "autorole": 1568766341228273784,
+    "ticket_role": 1568766341228273784,
+    "ticket_count": 2,
+    "mod_role": 1568800103140167710,
+    "verify": 1568787725715378337,
+    "user_logs_category": 1568766543741845727,
+    "mod_logs": 1568770705640919093,
+    "verify_logs": 1568787728542335077,
+    "team_category": 1568776052048924822,
+    "rising_players_vc": 1568776054502588466,
+    "scrim_schedule": 1568780042006171790,
+    "drills": 1568780049807581214,
+    "drills_ss": 1568780052668219583,
+    "resources_category": 1568790016451149995,
+    "roles": 1568790017600520296,
+    "tickets_panel": 1568790019512996053,
+    "tickets_category": 1568781737666941089,
+    "_perms_applied": true,
+    "verify_panel_msg_id": 1568790049108005015,
+    "ticket_panel_msg_id": 1568790049946992793,
+    "player_role_id": 1568776268520890458,
+    "bot_logs": 1568800106109608040,
+    "setup_version": 3,
+    "drill_config": {},
+    "drill_counter": 0,
+    "drills_today": {},
+    "drill_misses": {
+      "1358059797613903964": 1
+    }
+  }
+}
