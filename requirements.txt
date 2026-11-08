@@ -1,0 +1,8 @@
+# Core
+discord.py>=2.4.0
+
+# Image cards (welcome card, announcement banner)
+Pillow>=10.0.0
+
+# Timezone database — needed on Termux/Android and any system without system tzdata
+tzdata>=2024.1
